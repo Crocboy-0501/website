@@ -106,7 +106,7 @@ const config = {
         //   src: 'img/logo.svg',
         //   href: '/',
         // },
-        copyright: `Copyright © ${new Date().getFullYear()} By Anwar, Inc. Built with Docusaurus.<br/>
+        copyright: `Copyright © ${new Date().getFullYear()} By Anwar. Built with Docusaurus.<br/>
         <img src="https://img.anwar.ink/images/2024/09/30/12588788587e48059fdaf87d6e0b9293.th.png" style="width: 16px; height: 16px;">
         <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11011302007335" rel="noreferrer" target="_blank">
           京公网安备11011302007335
